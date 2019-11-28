@@ -1,0 +1,29 @@
+.imgdetail{
+    width: 250px;
+    height: 300px;
+}
+.imgdoido{
+    width: 320px;
+    height: 250px;
+}
+.imgchitiet{
+    margin-left: 20px;
+    width: 580px;
+    height: 300px;
+}
+.chitiet_1{
+    width: 250px;
+    height: 200px;
+}
+.chitiet_div2{
+    width: 300px;
+    float: left;
+    height: 500px;
+}
+.imgbaidang{
+    width: 350px;
+    height: 300px;
+}
+.btntab{
+  color: #F7AF9D;
+}
